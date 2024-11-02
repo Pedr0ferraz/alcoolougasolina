@@ -1,0 +1,14 @@
+C:\Users\user\alcoolougasolina\bin\Debug\net8.0\alcoolougasolina.exe
+C:\Users\user\alcoolougasolina\bin\Debug\net8.0\alcoolougasolina.deps.json
+C:\Users\user\alcoolougasolina\bin\Debug\net8.0\alcoolougasolina.runtimeconfig.json
+C:\Users\user\alcoolougasolina\bin\Debug\net8.0\alcoolougasolina.dll
+C:\Users\user\alcoolougasolina\bin\Debug\net8.0\alcoolougasolina.pdb
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\alcoolougasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\alcoolougasolina.AssemblyInfoInputs.cache
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\alcoolougasolina.AssemblyInfo.cs
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\alcoolougasolina.csproj.CoreCompileInputs.cache
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\alcoolougasolina.dll
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\refint\alcoolougasolina.dll
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\alcoolougasolina.pdb
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\alcoolougasolina.genruntimeconfig.cache
+C:\Users\user\alcoolougasolina\obj\Debug\net8.0\ref\alcoolougasolina.dll
